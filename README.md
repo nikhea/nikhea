@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; Studying Physics With Eletronics.
 - 💼 &nbsp; I’m currently working on Full Stack Development projects / Building side hustles.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- ✍️ &nbsp; I'm interested in learning Blochchain Techonology.
+- ✍️ &nbsp; I'm interested in learning Blockchain Techonology.
 </div>
 
 <p align="center" >
